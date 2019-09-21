@@ -1,3 +1,27 @@
-button{
-  
+.navbar-title{
+   font-family: 'Satisfy', cursive;
+   font-size: 60px;
+   text-shadow: 2px 2px 4px #000000;
+   color: #ffb5b5;
+}
+nav{
+  height: 100px;
+  background:#F0DECB;
+  border-top: 2px solid #504658;
+}
+.nav-item{
+  color: #504658;
+}
+.dropdown-item{
+  color:#504658
+}
+.card-body{
+  background: ivory;
+  color:#504658
+}
+.carousel-item{
+  height: 300px;
+}
+.card-columns{
+  background: ivory;
 }
