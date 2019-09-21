@@ -1,27 +1,44 @@
+body{
+  background: #ffdfdf;
+}
 .navbar-title{
    font-family: 'Satisfy', cursive;
    font-size: 60px;
    text-shadow: 2px 2px 4px #000000;
-   color: #ffb5b5;
+   color: #233567;
 }
 nav{
   height: 100px;
-  background:#F0DECB;
-  border-top: 2px solid #504658;
+  background:#fbc1bc;
+  border-top: 2px solid #315b96;
 }
 .nav-item{
-  color: #504658;
+  color:#233567
+  
 }
+
 .dropdown-item{
-  color:#504658
+  color:#233567;
+  background:#fbc1bc;
+  
 }
 .card-body{
-  background: ivory;
-  color:#504658
+  background: #ffdfdf;
+  color:#233567;
+  border: 2px solid #315b96;
+
 }
-.carousel-item{
+.wedding img{
   height: 300px;
 }
+#centerPhoto{
+  border: 2px solid #315b96; 
+}
 .card-columns{
-  background: ivory;
+  background: #ffdfdf;
+}
+.card-headshots{
+margin: 15px;
+border: 2px solid #315b96;
+box-shadow: 10px 10px 5px grey;
 }
