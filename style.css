@@ -1,17 +1,28 @@
-.navbar-title{
-   font-family: 'Kaushan Script', cursive;
 
-   font-size: 60px;
-   text-shadow: 2px 2px 4px #574f7d;
-   color: #4f3a65;
-}
+   
 .title{
   margin-right:50px;
+  font-family: 'Kaushan Script', cursive;
+
+   font-size: 55px;
+   text-shadow: 2px 2px 4px #3c415e;
+   color: #1cb3c8;
 }
+
 nav{
   height: 100px;
-  background:#95adbe;
-  border-top: 2px solid #574f7d;
+  background:#738598;
+  border-top: 2px solid #3c415e;
+  color: #3c415e;
+  font: bolder;
+  font-size: 20px;
+}
+.contact{
+  color: #3c415e;
+  font: bolder;
+  font-size: 20px;
+  background:#738598;
+  margin-left: 50px;
 }
 .nav-item{
   color:#233567
@@ -26,22 +37,26 @@ nav{
   
 }
 .card-body{
-  background: #dff0ea;
+  background: #dfe2e2;
   color:#233567;
-  border: 2px solid #574f7d;
-
+  border: 2px solid #3c415e;
+  font-family: 'Kaushan Script', cursive;
+  font-size: 20px;
+}
+.card-title{
+  font-size: 24px;
 }
 .wedding{
   height: 300px;
 }
 #centerPhoto{
-  border: 2px solid #574f7d; 
+  border: 2px solid #3c415e; 
 }
 .card-columns{
-  background: #dff0ea;
+  background: #dfe2e2;
 }
 .card-headshots{
 margin: 15px;
-border: 2px solid #574f7d;
-box-shadow: 10px 10px 5px #95adbe;
+border: 2px solid #3c415e;
+box-shadow: 10px 10px 5px #738598;
 }
