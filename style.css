@@ -1,44 +1,47 @@
-body{
-  background: #ffdfdf;
-}
 .navbar-title{
-   font-family: 'Satisfy', cursive;
+   font-family: 'Kaushan Script', cursive;
+
    font-size: 60px;
-   text-shadow: 2px 2px 4px #000000;
-   color: #233567;
+   text-shadow: 2px 2px 4px #574f7d;
+   color: #4f3a65;
+}
+.title{
+  margin-right:50px;
 }
 nav{
   height: 100px;
-  background:#fbc1bc;
-  border-top: 2px solid #315b96;
+  background:#95adbe;
+  border-top: 2px solid #574f7d;
 }
 .nav-item{
   color:#233567
   
 }
-
+.landscapeCard{
+  margin: 15px;
+}
 .dropdown-item{
   color:#233567;
   background:#fbc1bc;
   
 }
 .card-body{
-  background: #ffdfdf;
+  background: #dff0ea;
   color:#233567;
-  border: 2px solid #315b96;
+  border: 2px solid #574f7d;
 
 }
-.wedding img{
+.wedding{
   height: 300px;
 }
 #centerPhoto{
-  border: 2px solid #315b96; 
+  border: 2px solid #574f7d; 
 }
 .card-columns{
-  background: #ffdfdf;
+  background: #dff0ea;
 }
 .card-headshots{
 margin: 15px;
-border: 2px solid #315b96;
-box-shadow: 10px 10px 5px grey;
+border: 2px solid #574f7d;
+box-shadow: 10px 10px 5px #95adbe;
 }
