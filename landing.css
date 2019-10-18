@@ -1,0 +1,25 @@
+body{
+
+}
+.header{
+  text-align: center;
+  font-size: 80px;
+  margin: 0;
+  padding: 0;
+}
+.title{
+  text-align: center;
+  font-size: 30px;
+  margin:0;
+  padding: 0;
+}
+.button{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.a{
+  background: transparent;
+  font-size: 40;
+  border:2px solid black;
+}
