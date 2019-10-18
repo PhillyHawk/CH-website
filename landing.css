@@ -13,7 +13,7 @@ body{
   margin:0;
   padding: 0;
 }
-.button{
+/* .button{
   display: flex;
   align-items: center;
   justify-content: center;
@@ -24,4 +24,13 @@ body{
   background: transparent;
   font-size: 40;
   border:2px solid black;
+} */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
 }
+
