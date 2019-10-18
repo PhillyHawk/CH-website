@@ -1,0 +1,14 @@
+body { width: 100%; background-color: #6aa0dc; margin: 0 auto; padding: 0; }
+
+.container { width: 20%; margin: 0 auto; background-color: #335d8c; }
+
+h1 { text-align: center; color: aliceblue; font-family: "Blenda Script Regular", 'decorative', sans-serif; font-size: 2.1em; margin: 0 auto; padding: 15px; }
+
+.main-body { margin: 0 auto; background-color: aliceblue; width: 20%; padding: 10px 0; border-bottom-left-radius: 15px; border-bottom-right-radius: 15px; }
+
+.inputs { margin: 10px; }
+
+input { display: block; margin-top: 30px; background-color: #c3cbd2; padding: 4px 2px; width: 80%; border-radius: 10px; border: none; }
+
+button { margin: 0 auto; display: inline-block; width: 30%; border-radius: 10px; border: none; padding: 10px 20px; color: aliceblue; background-color: #d6a844; }
+.main-body button { display: block; margin: 0 auto; }
