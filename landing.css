@@ -138,8 +138,8 @@ margin-top: 343px;
   }
   
   .animated-icon1.open span:nth-child(2) {
-  opacity: 0;
- right: -60px;
+  opacity: 2;
+  left: -70px;
   }
   
   .animated-icon1.open span:nth-child(3) {
